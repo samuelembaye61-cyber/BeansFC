@@ -1,0 +1,6 @@
+[
+  {"model": "club.player", "pk": 1, "fields": {"name": "Sample Goalkeeper", "number": 1, "position": "Goalkeeper", "position_group": "goalkeeper"}},
+  {"model": "club.player", "pk": 2, "fields": {"name": "Sample Defender", "number": 4, "position": "Center Back", "position_group": "defender"}},
+  {"model": "club.player", "pk": 3, "fields": {"name": "Sample Midfielder", "number": 8, "position": "Central Midfielder", "position_group": "midfielder"}},
+  {"model": "club.player", "pk": 4, "fields": {"name": "Sample Forward", "number": 9, "position": "Striker", "position_group": "forward"}}
+]

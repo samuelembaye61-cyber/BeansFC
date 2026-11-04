@@ -1,0 +1,4 @@
+[
+  {"model": "club.match", "pk": 1, "fields": {"date": "2030-01-05T15:00:00Z", "home_team": "My Club FC", "away_team": "Sample Rovers", "location": "Main Park · Field 1", "home_score": null, "away_score": null}},
+  {"model": "club.match", "pk": 2, "fields": {"date": "2030-01-12T15:00:00Z", "home_team": "Sample City", "away_team": "My Club FC", "location": "City Ground", "home_score": null, "away_score": null}}
+]
